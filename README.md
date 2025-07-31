@@ -35,13 +35,13 @@ This project provides an interactive Retail Sales Dashboard designed to give bus
 
 ## Example Visuals
 
-<img width="680" height="338" alt="image" src="https://github.com/user-attachments/assets/29b3ffc0-3c07-4e3e-b838-f4e539c5322d" />
+<img width="1182" height="665" alt="image" src="https://github.com/user-attachments/assets/29b3ffc0-3c07-4e3e-b838-f4e539c5322d" />
 
-<img width="596" height="329" alt="image" src="https://github.com/user-attachments/assets/bc426f05-7c6d-4eb1-bea6-cd637897aef4" />
+<img width="1182" height="665" alt="image" src="https://github.com/user-attachments/assets/bc426f05-7c6d-4eb1-bea6-cd637897aef4" />
 
 <img width="1182" height="665" alt="Screenshot 2025-07-31 132507" src="https://github.com/user-attachments/assets/06bb2d8d-cf6e-4ffe-b06c-9975a72fb8b6" />
 
-<img width="1181" height="665" alt="Screenshot 2025-07-31 132536" src="https://github.com/user-attachments/assets/f6663201-8197-4fd3-a00a-515464bf8354" />
+<img width="1182" height="665" alt="Screenshot 2025-07-31 132536" src="https://github.com/user-attachments/assets/f6663201-8197-4fd3-a00a-515464bf8354" />
 
 
 ## Requirements
